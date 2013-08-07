@@ -75,7 +75,8 @@ Currently cakeStrap supports two languages, **English** and **Portuguese**. To e
 <pre>
 Configure::write('Config.language', 'por');
 </pre> 
-
+Heres a intresting upate!
+##josh is awosme
 
 
 ## Questions / Bugs
